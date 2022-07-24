@@ -3,7 +3,7 @@ import React from "react";
 // import './Videos/SeniorTest.mov';
 // import { FaPhone } from 'react-icons/fa';
 // import { FaMailBulk } from 'react-icons/fa';
-// import { FaPhoneSquareAlt } from "react-icons/fa";
+// import { FaPhoneSquareAlt } from "react-icons/fa"; update test
 
 function App() {
   return (
